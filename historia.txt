@@ -1,6 +1,6 @@
 Hola soy javier choque paucar
 estudiante de economía en la unsaac
-y estudiante de git de platzi
+y estudiante de git y datascience de platzi
 y tengo 21 años
 
 
